@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">និទាន</string>
+    <string name="login">ចូលគណនី</string>
+    <string name="logout">ចេញពីគណនី</string>
+    <string name="signup">ចុះឈ្មោះ</string>
+    <string name="signin">ចុះឈ្មោះ</string>
+    <string name="full_name">ឈ្មោះអ្នកប្រើប្រាស់</string>
+    <string name="password">លេខសម្ងាត់</string>
+    <string name="confirm_password">ផ្ទៀងផ្ទាត់លេខសម្ងាត់</string>
+    <string name="email">អុីម៉ែល</string>
+    <string name="sunhead">និទាន ! កម្សាន្តអារម្មណ៏ជាមួយរឿងនិទាន</string>
+    <string name="dont_have_acc">មិនទាន់មានគណនី​ ?</string>
+    <string name="already_have_acc">មានគណនីហើយមែនទេ ?</string>
+    <string name="forgot_pass">ភ្លេចលេខសម្ងាត់ ?</string>
+    <string name="signin_w_google">ចុះឈ្មោះជាមួយគណនី​ Google</string>
+    <string name="enter_email">សូមបញ្ចូលអុីមែលរបស់អ្នក</string>
+    <string name="cancel">បោះបង់</string>
+    <string name="reset">ផ្លាស់ប្តូរ</string>
+    <string name="home">ផ្ទាំងដើម</string>
+    <string name="favourite">បានចូលចិត្ត</string>
+    <string name="open">បើក</string>
+    <string name="close">បឹទ</string>
+    <string name="setting">ការកំណត់</string>
+    <string name="language">ភាសា</string>
+    <string name="khmer">ភាសាខ្មែរ</string>
+    <string name="english">ភាសាអងគ្លេស</string>
+    <string name="search">ស្វែងរក</string>
+    <string name="feedback">ផ្តល់មតិ</string>
+</resources>

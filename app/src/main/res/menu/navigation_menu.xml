@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <group
+        android:checkableBehavior="single"
+        >
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/home"
+            android:icon="@drawable/baseline_home"
+            />
+        <item
+            android:id="@+id/favourite"
+            android:icon="@drawable/baseline_favorite"
+            android:title="@string/favourite"
+            />
+
+        <item
+            android:id="@+id/search"
+            android:icon="@drawable/baseline_search"
+            android:title="@string/search"
+            />
+        <item android:id="@+id/feedback"
+            android:icon="@drawable/baseline_feedback"
+            android:title="@string/feedback"
+            />
+        <item
+            android:id="@+id/setting"
+            android:icon="@drawable/baseline_settings"
+            android:title="@string/setting"
+            />
+
+    </group>
+    <item
+        android:title=" ">
+        <menu>
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/baseline_logout"
+                android:title="@string/logout"/>
+        </menu>
+    </item>
+
+</menu>

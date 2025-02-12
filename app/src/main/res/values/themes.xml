@@ -1,0 +1,61 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FirebaseRealtApplication" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:actionMenuTextColor">@color/white</item>
+        <item name="android:colorControlNormal">@color/white</item>
+        <item name="android:colorControlActivated">@color/white</item>
+        <item name="android:colorControlHighlight">@color/black</item>
+
+    </style>
+
+    <style name="Theme.FirebaseRealtApplication" parent="Base.Theme.FirebaseRealtApplication" />
+
+    <style name="Theme.NavDrawer" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!--Open drawer icon color.-->
+        <item name="android:drawableStart">@color/white</item>
+        <item name="android:drawableTint">@color/white</item>
+
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/lavender</item>
+        <item name="colorPrimaryVariant">@color/lavender</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/light_blue</item>
+        <item name="colorSecondaryVariant">@color/light_blue</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+
+    </style>
+
+    <style name="ToolbarPopupTheme" parent="ThemeOverlay.AppCompat.Dark">
+        <item name="android:icon">@color/white</item>
+        <item name="android:titleTextColor">@color/white</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:colorControlNormal">@color/white</item>
+        <item name="android:actionMenuTextColor">@color/white</item>
+
+    </style>
+
+    // custom searchview
+        <style name="SearchView" parent="TextAppearance.Material3.SearchView">
+        <item name="queryHint">@string/search</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textColorHint">@color/grey</item>
+        <item name="android:textSize">16sp</item>
+        <item name="iconifiedByDefault">false</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="searchIcon">@drawable/baseline_search</item>
+       <item name="closeIcon" >@drawable/baseline_close_24</item>
+    </style>
+
+    // make image view rounded
+    <style name="roundedImageViewRounded">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Nitean</string>
+    <string name="web_client_id" translatable="false">815482605220-t0mqhl0pumvcm70gq2k8ash6at2si56m.apps.googleusercontent.com</string>
+    <string name="login">Log In</string>
+    <string name="logout">Log Out</string>
+    <string name="signup">Sign Up</string>
+    <string name="signin">Sign In</string>
+    <string name="full_name">Full Name</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="sunhead">Nitean! Brings you the tales ,Entertain your feeling!</string>
+    <string name="dont_have_acc">Don`t have account? </string>
+    <string name="already_have_acc">Already have account?  </string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="signin_w_google">Sign In With Google</string>
+    <string name="enter_email">Please Enter Your Email</string>
+    <string name="cancel">Cancel</string>
+    <string name="reset">Reset</string>
+    <string name="home">Home</string>
+    <string name="favourite">Favourite</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="open_nav" translatable="false">Open Navigation Drawer</string>
+    <string name="close_nav" translatable="false">Close Navigation Drawer</string>
+    <string name="setting">Setting</string>
+    <string name="language">Language</string>
+    <string name="khmer">Khmer</string>
+    <string name="english">English</string>
+    <string name="search">Search</string>
+    <string name="feedback">FeedBack</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

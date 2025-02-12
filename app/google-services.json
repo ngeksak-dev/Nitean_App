@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815482605220",
+    "project_id": "fir-realtimedemo-c4d9d",
+    "storage_bucket": "fir-realtimedemo-c4d9d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815482605220:android:0fc66914c96bf1e680e031",
+        "android_client_info": {
+          "package_name": "com.example.firebaserealtapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-j6oLiL2IJJ_41-GHUYE8mze1dbRpMMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
